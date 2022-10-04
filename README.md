@@ -1,4 +1,12 @@
-# Heart Disease Predictor
+# Classification Project
+## Heart Disease Predictor
+Created By: Leah Nagy
+
+### Table of Contents
+1. [Presentation Slides](https://github.com/leahnagy/heart-disease-predictor/blob/main/slides.pdf)
+2. [Project Code](https://github.com/leahnagy/heart-disease-predictor/blob/main/code.ipynb)
+3. [Application Code](https://github.com/leahnagy/heart-disease-predictor/blob/main/streamlit_code.py)
+4. [Heart Disease Predictor App](https://share.streamlit.io/leahnagy/streamlit-heart-disease/main/proj_streamlit2.py)
 
 ### Abstract
 The goal of this project was to use classification models to predict the presence/history of heart disease or heart attack to help Functional Medicine health practitioners identify patients at risk of heart disease so they can create a prevention treatment plan for their patient. The data was provided by the CDC’s Behavioral Risk Factor Surveillance survey. After balancing the target variable classes, I was able to employ a Logistic Regression model and build an interactive app using StreamLit to predict the user’s probability of having heart disease.
